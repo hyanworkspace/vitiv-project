@@ -6,8 +6,8 @@ export default function Explore() {
       <div className="container mx-auto">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h2 className="text-4xl font-bold">Explore</h2>
-            <p className="text-xl text-gray-600">
+            <h2 className="text-4xl font-bold font-dm-serif">Explore</h2>
+            <p className="text-xl text-gray-600 font-semibold">
               Unleash Your Creativity with VITIV: Discover a New Era of AI-Driven Art
             </p>
             <div className="space-y-4">

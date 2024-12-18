@@ -70,3 +70,18 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+
+@font-face {
+  font-family: 'DM Serif Display';
+  src: url('/fonts/DM-Serif-Display-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IBM Plex Serif';
+  src: url('/fonts/IBM-Plex-Serif-600.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
